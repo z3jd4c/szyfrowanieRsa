@@ -9,5 +9,6 @@ package szyfrowaniersa;
  * @author Kuba
  */
 public class NewClass {
-    
+    // dodaje nowy komentarz
+    int a,b,c,d;
 }

@@ -15,8 +15,8 @@ public final class Klucz {
     private static volatile Klucz klucz = null;
        private BigInteger pp,qq,nn,d,e,eeuler;
        //int i;
-       boolean czypierwsza = false;
-       boolean czypierwszaq = false;
+      // boolean czypierwsza = false;
+      // boolean czypierwszaq = false;
        Random generator =  new Random();
        
           
